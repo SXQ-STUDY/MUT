@@ -1,0 +1,34 @@
+<annotation>
+    <folder>bdd100k</folder>
+    <filename>0000f77c-6257be58</filename>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmentfile>0000f77c-6257be58</segmentfile>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <Difficult>0</Difficult>
+        <bndbox>
+            <xmin>45.240919</xmin>
+            <ymin>254.530367</ymin>
+            <xmax>357.805838</xmax>
+            <ymax>487.906215</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <Difficult>0</Difficult>
+        <bndbox>
+            <xmin>507.82755</xmin>
+            <ymin>221.727518</ymin>
+            <xmax>908.367588</xmax>
+            <ymax>442.715126</ymax>
+        </bndbox>
+    </object>
+</annotation>
